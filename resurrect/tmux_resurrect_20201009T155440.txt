@@ -1,0 +1,9 @@
+pane	savvas	0	:zsh	0	:	0	:/Users/savvas.p	1	zsh	:
+pane	savvas	1	:vim	1	:*	0	:/Users/savvas.p	1	zsh	:
+pane	savvas	2	:zsh	0	:-	0	:/Users/savvas.p/Documents/programming_projects/EMODnet-data-archeology	1	zsh	:
+pane	savvas	3	:zsh	0	:	0	:/Users/savvas.p	1	zsh	:
+window	savvas	0	0	:	bbdd,212x63,0,0,0
+window	savvas	1	1	:*	bbde,212x63,0,0,1
+window	savvas	2	0	:-	bbdf,212x63,0,0,2
+window	savvas	3	0	:	bbe0,212x63,0,0,3
+state	savvas	

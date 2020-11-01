@@ -1,0 +1,9 @@
+pane	savvas	0	:zsh	0	:	0	:/Users/savvas.p	1	zsh	:
+pane	savvas	1	:vim	1	:*	0	:/Users/savvas.p/Documents/programming_projects/EMODnet-data-archeology	1	vim	:vim getEntities_EXTRACT_api.pl
+pane	savvas	2	:zsh	0	:-	0	:/Users/savvas.p/Documents/programming_projects/EMODnet-data-archeology	1	zsh	:
+pane	savvas	3	:zsh	0	:	0	:/Users/savvas.p	1	zsh	:
+window	savvas	0	0	:	cc3e,159x47,0,0,1
+window	savvas	1	1	:*	cc3f,159x47,0,0,2
+window	savvas	2	0	:-	cc40,159x47,0,0,3
+window	savvas	3	0	:	cc41,159x47,0,0,4
+state	savvas	

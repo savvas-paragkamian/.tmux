@@ -1,0 +1,13 @@
+pane	mac	0	:zsh	1	:*	0	:/Users/savvas.p	1	zsh	:
+pane	savvas	0	:zsh	0	:-	0	:/Users/savvas.p	1	htop	:htop
+pane	savvas	1	:vim	0	:	0	:/Users/savvas.p	1	zsh	:
+pane	savvas	2	:zsh	1	:*	0	:/Users/savvas.p/Documents/programming_projects/EMODnet-data-archeology	1	zsh	:
+pane	savvas	3	:zsh	0	:	0	:/Users/savvas.p/Documents/programming_projects/Learn_Python	1	vim	:vim json_to_csv.py
+pane	savvas	4	:zsh	0	:	0	:/Users/savvas.p/Documents/programming_projects/prego_web_site/_posts	1	zsh	:
+window	mac	0	1	:*	c3bd,158x45,0,0,0
+window	savvas	0	0	:-	c3be,158x45,0,0,1
+window	savvas	1	0	:	c3bf,158x45,0,0,2
+window	savvas	2	1	:*	c3c0,158x45,0,0,3
+window	savvas	3	0	:	c3c1,158x45,0,0,4
+window	savvas	4	0	:	c3c2,158x45,0,0,5
+state	savvas	

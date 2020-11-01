@@ -1,0 +1,9 @@
+pane	emodnet	0	:zsh	0	:	0	:/Users/savvas.p	1	zsh	:
+pane	emodnet	1	:vim	0	:	0	:/Users/savvas.p/Documents/programming_projects/EMODnet-data-archeology	1	vim	:vim README.md
+pane	emodnet	2	:zsh	0	:-	0	:/Users/savvas.p/Documents/programming_projects/EMODnet-data-archeology/tool-template	1	zsh	:
+pane	emodnet	3	:vim	1	:*	0	:/Users/savvas.p	1	vim	:vim .tmux.conf
+window	emodnet	0	0	:	b7fd,141x43,0,0,0
+window	emodnet	1	0	:	b7fe,141x43,0,0,1
+window	emodnet	2	0	:-	b7ff,141x43,0,0,2
+window	emodnet	3	1	:*	b800,141x43,0,0,3
+state	emodnet	
