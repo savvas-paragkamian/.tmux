@@ -10,3 +10,9 @@ mv ~/.tmux.conf ~/.tmux/tmux.conf
 
 ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 ```
+
+## Cloning repo with all submodules
+
+```
+git clone --recurse-submodules https://github.com/savvas-paragkamian/.tmux.git
+```
